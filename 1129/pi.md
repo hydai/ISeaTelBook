@@ -15,3 +15,10 @@ Mail: andyw330@gmail.com
 知道這個祕技。
 
 ##解題程式碼：
+```CPP
+#include <cstdio>
+int main() {
+printf("Hello, World!\n");
+return 0;
+}
+```

@@ -11,4 +11,10 @@ Mail: henryyang42@gmail.com
 需要知道怎麼看網頁的原始碼。
 
 ##解題程式碼：
-
+```C
+#include <cstdio>
+int main(){
+	puts("Not Found The requested URL / was not found on this server. Apache/2.4.6 (Ubuntu) Server at 140.114.86.238 Port 80");
+	return 0;
+}
+```
