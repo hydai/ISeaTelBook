@@ -1,8 +1,7 @@
-# My Book
+#ISeaTeL Cup 歡樂解題線上賽
 
-When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
-$$x = {-c \pm \sqrt{b^2-4ac} \over 2a}.$$
+為了推廣線上賽的樂趣與風氣，我們從 11/29 起，每兩個禮拜就會舉行一場線上賽。期待有更多的人能享受解題時的愉悅感。
 
+本書將會記錄每一次線上賽的出題目的與題解，讓大家都能從這裡面來學習到一些東西。
 
-
-
+2014, 11, 28, hydai
